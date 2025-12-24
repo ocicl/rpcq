@@ -1,0 +1,9 @@
+* rpcq
+
+RPC framework and message specification for Rigetti Quantum Cloud Services.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/rigetti/rpcq.git |
+| commit  | 801e7a7                                   |
+| systems | rpcq-tests rpcq                           |
+|---------+-------------------------------------------|
